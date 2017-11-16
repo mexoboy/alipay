@@ -1,0 +1,11 @@
+{
+    "name": "alipay/alipay-sdk",
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "aop",
+            "lotusphp_runtime"
+        ]
+    },
+    "require": {}
+}
