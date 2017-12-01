@@ -1,10 +1,21 @@
 {
-    "name": "alipay/alipay-sdk",
+    "name": "mexoboy/alipay-sdk-php",
+    "description": "Alipay SDK for php",
+    "homepage": "http://www.alipay.com",
+    "type": "library",
+    "authors": [
+        {
+            "name": "alipay",
+            "homepage": "http://www.alipay.com"
+        }
+    ],
     "minimum-stability": "dev",
+    "require": {
+        "php":">=5.5"
+    },
     "autoload": {
         "classmap": [
             "aop"
         ]
-    },
-    "require": {}
+    }
 }
