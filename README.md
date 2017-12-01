@@ -1,3 +1,5 @@
+Copy of official Alipay SDK
+
 RSA key pair generation
 -----------------------
 ```bash
@@ -10,3 +12,4 @@ $ openssl
   OpenSSL> exit
 ```
 
+After generate keys, you need delete first and last line (keys must be without "-----BEGIN RSA PRIVATE KEY-----", "-----END RSA PRIVATE KEY----- and whitespaces)
